@@ -4,6 +4,6 @@
 <p>A list of the products created by Fantom Social and a short summary.</p>
 <h3>Fantom Social Media (Beta*)</h3>
 <p>Fantom Social Media is a social media platform which all operations are done onchain. This platform is first user-moderated social media platform. Users can get paid for voting on Governance proposals with our own token.</p>
-<p>Repositories: </p> <a href="https://github.com/Fantom-Social/ftm-social-website">Repository</a><pre> </pre><a href="https://github.com/Fantom-Social/ftm-social-contracts">Contracts</a>
+<p>Repositories: </p> <a href="https://github.com/Fantom-Social/ftm-social-website">Repository</a> <a href="https://github.com/Fantom-Social/ftm-social-contracts">Contracts</a>
 <br>
 <p>*Beta refers to a testnet launch or confirmed pre-launch phase.</p>
